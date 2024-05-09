@@ -48,10 +48,25 @@ html {
   color: #8a8a93;
 }
 
+.pageLinkTranslate {
+  display: flex;
+  align-items: center;
+  gap: 36px;
+  color: #ff6522;
+}
+
 .pageLinks a {
   font-size: 18px;
   display: flex;
   color: #8a8a93;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.pageLinkTranslate a {
+  font-size: 18px;
+  display: flex;
+  color: #ff6522;
   font-weight: 600;
   text-decoration: none;
 }
@@ -416,7 +431,7 @@ html {
 
 /* SMALL DESKTOP VIEW */
 
-@media (max-width: 1450px) {
+@media (max-width: 1540px) {
   .container {
     padding-top: 20px;
     padding-bottom: 20px;
@@ -424,9 +439,9 @@ html {
     padding-right: 4%;
   }
 
-  .pageLinks {
+  /* .pageLinks {
     display: none;
-  }
+  } */
 
   .about {
     flex-direction: column;

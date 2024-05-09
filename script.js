@@ -164,3 +164,10 @@ tl5.fromTo(
     duration: 1,
   }
 );
+
+
+  // Get the current year
+  const currentYear = new Date().getFullYear();
+  // Update the element with id "year" with the current year
+  document.getElementById("year").textContent = "© " + currentYear;
+

@@ -702,3 +702,12 @@ html {
     font-size: 28px;
   }
 }
+
+.footerNameLink {
+  color: #ff6522;
+}
+
+.social-icon {
+  color: aliceblue;
+  margin: 5px;
+}

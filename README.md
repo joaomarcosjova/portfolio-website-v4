@@ -2,7 +2,7 @@
 
 <p align="center">This website is an opportunity to demonstrate a clean and minimum <b>Portfolio</b> layout of information about me and to provide further information (via links) about my work.<p>
 
-  ### <code>Live Demo</code> - **[Portfolio Website](https://akshatjalan.github.io/devfolio/)**
+  ### <code>Live Demo</code> - **[Portfolio Website](https://akshatjalan.github.io/devo/)**
 
 # Website Preview
 

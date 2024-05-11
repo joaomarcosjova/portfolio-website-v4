@@ -6,7 +6,7 @@
 
 # Website Preview
 
- ![Alt text](https://github.com/Akshatjalan/devfolio/blob/main/images/bentoPortfolio.png?raw=true "Main Page")
+ ![Alt text](https://github.com/joaomarcosjova/website-portfolio-v4/images/websitesnip.png?raw=true "Main Page")
   This is a portfolio of my work, including both my personal and academic projects.
 
 :star:  Star me on GitHub — it helps!

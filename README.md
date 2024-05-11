@@ -6,7 +6,7 @@
 
 # Website Preview
 
- ![Alt text](https://github.com/joaomarcosjova/portfolio-website-v4/images/websitesnip.png?raw=true "Main Page")
+ ![Alt text] (https://github.com/joaomarcosjova/portfolio-website-v4/blob/main/images/websitesnip.png)
   This is a portfolio of my work, including both my personal and academic projects.
 
 :star:  Star me on GitHub — it helps!

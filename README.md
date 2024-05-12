@@ -6,7 +6,7 @@
 
 # Website Preview
 
-![websitesnip](https://github.com/joaomarcosjova/portfolio-website-v4/assets/89745621/e353bf01-2e2e-412d-b045-bfbdb956b290)
+![preview](https://github.com/joaomarcosjova/portfolio-website-v4/assets/89745621/67154bfd-1b36-4f4a-938f-930e31f71276)
 
 This is a portfolio of my work, including both my personal and academic projects.
 
@@ -36,6 +36,7 @@ This is a portfolio of my work, including both my personal and academic projects
 # Contact 
 
 Feel free to explore my projects and repositories. 
+
 If you'd like to collaborate or discuss exciting frontend development opportunities, don't hesitate to reach out!
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joaomarcosjova)

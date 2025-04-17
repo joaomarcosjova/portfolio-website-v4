@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   padding: 0;
@@ -41,18 +42,26 @@ html {
   letter-spacing: -0.8px;
 }
 
-.pageLinks {
-  display: flex;
-  align-items: center;
-  gap: 36px;
-  color: #8a8a93;
-}
-
 .pageLinkTranslate {
   display: flex;
   align-items: center;
   gap: 36px;
   color: #ff6522;
+}
+
+.pageLinkTranslate img {
+  font-size: 18px;
+  display: flex;
+  height: 30px;
+  align-items: center;
+  gap: 36px;
+}
+
+.pageLinks {
+  display: flex;
+  align-items: center;
+  gap: 36px;
+  color: #8a8a93;
 }
 
 .pageLinks a {
@@ -63,13 +72,6 @@ html {
   text-decoration: none;
 }
 
-.pageLinkTranslate a {
-  font-size: 18px;
-  display: flex;
-  color: #ff6522;
-  font-weight: 600;
-  text-decoration: none;
-}
 
 .pageLinks :hover {
   color: #fff;
@@ -110,7 +112,7 @@ html {
 }
 
 .aboutSection {
-  /* flex-grow: 1; */
+  flex-grow: 1;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -129,6 +131,11 @@ html {
   height: 280px;
   border-radius: 16px;
   /* filter: grayscale(1); */
+}
+
+.myPic:hover {
+  filter: grayscale(1);
+  cursor: pointer;
 }
 
 .fieldName {
@@ -235,22 +242,6 @@ html {
   font-size: 44px;
   padding-bottom: 20px;
   letter-spacing: -1.4px;
-}
-
-.companySkills {
-  display: flex;
-  gap: 10px;
-  padding-top: 10px;
-  padding-bottom: 50%;
-}
-
-.companySkillName {
-  font-size: 18px;
-  text-align: center;
-  background-color: #ff6522;
-  padding: 8px;
-  width: 80px;
-  border-radius: 10px;
 }
 
 .companyPeriod {
@@ -439,19 +430,16 @@ html {
     padding-right: 4%;
   }
 
-  /* .pageLinks {
-    display: none;
-  } */
 
   .about {
-    flex-direction: column;
+    /* flex-direction: column; */
   }
 
   .nameSection {
     padding: 32px;
     font-size: 32px;
     letter-spacing: -1px;
-    width: auto;
+    /* width: auto; */
   }
 
   .aboutSection {
@@ -460,7 +448,7 @@ html {
     font-size: 40px;
     letter-spacing: -2px;
     text-align: center;
-    flex-direction: row;
+    /* flex-direction: row; */
     justify-content: center;
   }
 
@@ -495,9 +483,6 @@ html {
     display: none; /* hide scrollbar */
   }
 
-  .companySkills {
-    padding-bottom: 0%;
-  }
 }
 
 /* MOBILE VIEW */
@@ -655,12 +640,6 @@ html {
     letter-spacing: -1px;
   }
 
-  .companySkillName {
-    font-size: 16px;
-    padding: 8px;
-    width: 68px;
-  }
-
   .companyPeriod {
     font-size: 18px;
   }
@@ -669,9 +648,6 @@ html {
     padding: 28px;
   }
 
-  .companySkills {
-    padding-bottom: 0%;
-  }
 
   /* SKILLS SECTION */
 

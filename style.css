@@ -336,24 +336,6 @@ html {
   cursor: pointer;
 }
 
-.socialEmailLink {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #ff6522;
-  color: #fff;
-  border-radius: 36px;
-  font-size: 24px;
-  font-weight: 500;
-  flex-grow: 1;
-  padding: 16px;
-}
-.socialEmailLink:hover {
-  background-color: #cc3d00;
-  transition: all ease-in-out 0.4s;
-  cursor: pointer;
-}
-
 /* CONTACT SECTION */
 
 .contact {
